@@ -1,1 +1,1 @@
-# SmartCrud
+# SmartMVC
