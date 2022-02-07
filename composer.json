@@ -1,0 +1,11 @@
+{
+    "name": "Suhdo-Tecnologia/smart-mvc",
+    "description": "A MVC Library",
+    "autoload": {
+        "psr-4": {
+            "Suhdo-Tecnologia\\smart-mvc\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
